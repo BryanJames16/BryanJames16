@@ -1,6 +1,14 @@
 ### Hi there 👋 Welcome to my account!
 
-### About Me
+### :man_technologist: About Me
+
+Hi! :hand: My name is **Bryan James**. I'm from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer :computer:.
+
+With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! 
+
+Aside from what's mentioned above, reading 📖, mediation 🙏, coding 👨‍💻, and travel ✈ are my favorite hobbies. I really love long train rides 🚂.
+
+Let's connect!
 
 <!-- Profile Badges -->
 <div id="profile-badges" align="center">
@@ -17,7 +25,13 @@
 
 ---
 
-### Skills
+### :rocket: Skills
+
+- 💻 **DevOps** - Pipeline, Automation, Observability, Continuous Integration, Delivery, and Deployment. 
+- 📔 **ITIL** - IT Service Management and Operations, Event Management, Incident Management.
+- ⌨ **Full-Stack Development** - Front-End, Back-End, and Software Quality Assurance.
+- ⛅ **Cloud** - Amazon Web Services (AWS) and Google Cloud Platform (GCP).
+- 🌕 **Leadership** - Vendor and Resource Management, Cost Management, and Role Profiling.
 
 ---
 
@@ -87,7 +101,10 @@
 
 ---
 
-### Stats
+### :chart: Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BryanJames16&theme=dark)](https://git.io/streak-stats)
+[![Bryan James' GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanJames16)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BryanJames16/BryanJames16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
