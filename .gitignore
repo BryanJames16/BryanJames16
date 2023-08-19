@@ -1,0 +1,20 @@
+# Compiled Files
+*.chm
+*.docx
+
+# Multimedia
+*.mp3
+*.wav
+*.avi
+
+# Scripts
+*.sh
+*.bat
+*.ps1
+
+# Executables
+*.exe
+*.dll
+*.jar
+*.out
+*.app
