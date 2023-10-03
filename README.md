@@ -26,7 +26,7 @@ Let's connect!
 ---
 
 - 🔭 I’m currently working on **personal** and **open-source projects**
-- 🌱 I’m currently learning **Next.js, React, and Web-Sockets**
+- 🌱 I’m currently learning **Next.js, React, Terraform, Cloud, and Web-Sockets**
 - 😄 Pronouns: He / Him / His
 
 ---
