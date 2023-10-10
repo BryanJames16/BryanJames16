@@ -103,12 +103,15 @@ Let's connect!
 
 <details>
   <summary><b>💹 Stats</b></summary>
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BryanJames16.BryanJames16)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJames16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
