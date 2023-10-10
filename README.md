@@ -111,6 +111,8 @@ Let's connect!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJames16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </details>
 
 <!--
