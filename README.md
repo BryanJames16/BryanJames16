@@ -103,6 +103,7 @@ Let's connect!
 
 <details>
   <summary><b>💹 Stats</b></summary>
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BryanJames16.BryanJames16)
 
