@@ -106,8 +106,6 @@ Let's connect!
   <summary><b>💹 Stats</b></summary>
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=BryanJames16.BryanJames16)
-
 ![](https://komarev.com/ghpvc/?username=BryanJames16&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
