@@ -79,8 +79,8 @@ Let's connect!
 
 #### Cloud
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/>&nbsp;
+    <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/></a>&nbsp;
+    <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Data
