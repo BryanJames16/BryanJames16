@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me
 
-Hi! :hand: My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer :computer:.
+Hi! :hand: My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer 💻.
 
 With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 🔭.
 
