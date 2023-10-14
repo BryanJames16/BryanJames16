@@ -1,8 +1,8 @@
-### Hi there 👋 Welcome!
+### Hi There 👋 Welcome!
 
-### :man_technologist: About Me
+### 👨‍💻 About Me
 
-Hi! :hand: My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer :computer:.
+Hi! ✋ My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer 💻.
 
 With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 🔭.
 
@@ -33,7 +33,7 @@ Let's connect!
 
 ---
 
-### :rocket: Skills
+### 🚀 Skills
 
 - 💻 **DevOps** - Pipeline, Automation, Observability, Continuous Integration, Delivery, and Deployment. 
 - 📔 **ITIL** - IT Service Management and Operations, Event Management, Incident Management.
@@ -43,7 +43,7 @@ Let's connect!
 
 ---
 
-### :hammer_and_wrench: Tools
+### 🛠 Tools
 #### Full Stack Development
 <div>
   <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/></a>&nbsp;
@@ -79,8 +79,8 @@ Let's connect!
 
 #### Cloud
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/>&nbsp;
+    <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/></a>&nbsp;
+    <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Data
