@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome!
 
-### :man_technologist: About Me
+### 👨‍💻 About Me
 
-Hi! :hand: My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer 💻.
+Hi! ✋ My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer 💻.
 
 With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 🔭.
 
@@ -33,7 +33,7 @@ Let's connect!
 
 ---
 
-### :rocket: Skills
+### 🚀 Skills
 
 - 💻 **DevOps** - Pipeline, Automation, Observability, Continuous Integration, Delivery, and Deployment. 
 - 📔 **ITIL** - IT Service Management and Operations, Event Management, Incident Management.
@@ -43,7 +43,7 @@ Let's connect!
 
 ---
 
-### :hammer_and_wrench: Tools
+### 🛠 Tools
 #### Full Stack Development
 <div>
   <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/></a>&nbsp;
