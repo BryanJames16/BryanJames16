@@ -11,7 +11,7 @@ Aside from what's mentioned above, reading 📖, mediation 🙏, coding 👨‍�
 Let's connect!
 
 <!-- Profile Badges -->
-<div id="profile-badges" text-align="center">
+<div id="profile-badges" align="center">
   <a href="https://www.linkedin.com/in/bryan-james-ilaga-4b1b478b/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" title="LinkedIn" alt="LinkedIn" />
   </a>
