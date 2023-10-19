@@ -11,7 +11,7 @@ Aside from what's mentioned above, reading 📖, mediation 🙏, coding 👨‍�
 Let's connect!
 
 <!-- Profile Badges -->
-<div id="profile-badges" align="center">
+<div id="profile-badges" text-align="center">
   <a href="https://www.linkedin.com/in/bryan-james-ilaga-4b1b478b/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" title="LinkedIn" alt="LinkedIn" />
   </a>
@@ -96,10 +96,10 @@ Let's connect!
   <a href="https://www.microsoft.com/en-ph/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/torvalds/linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" title="RedHat" alt="RedHat" width="40" height="40" /></a>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" title="DevIcon" alt="DevIcon" width="40" height="40"/>&nbsp;
+  <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" title="DevIcon" alt="DevIcon" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
