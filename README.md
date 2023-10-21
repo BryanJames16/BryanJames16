@@ -40,7 +40,7 @@ Let's connect!
 <div>
   <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com/"><img src="./assets/icons/Java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.python.org/"><img src="./assets/icons/Python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <a href="https://laravel.com/"><img src="./assets/icons/Laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML5"><img src="./assets/icons/HTML5.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
