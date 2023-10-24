@@ -44,7 +44,7 @@ Let's connect!
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./assets/icons/C.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com/"><img src="./assets/icons/Laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML5"><img src="./assets/icons/HTML5.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
-  <img src="./assets/icons/CSS3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="./assets/icons/CSS3.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
   <img src="./assets/icons/Javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="./assets/icons/Typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org/"><img src="./assets/icons/NodeJS.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
