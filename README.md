@@ -49,7 +49,7 @@ Let's connect!
   <a href="https://www.typescriptlang.org/"><img src="./assets/icons/Typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org/"><img src="./assets/icons/NodeJS.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
   <a href="https://react.dev/"><img src="./assets/icons/ReactJS.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
-  <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/></a>&nbsp;
+  <a href="https://jquery.com/"><img src="./assets/icons/JQuery.svg" title="JQuery" alt="JQuery" width="40" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
 </div>
 
