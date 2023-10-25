@@ -45,7 +45,7 @@ Let's connect!
   <a href="https://laravel.com/"><img src="./assets/icons/Laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML5"><img src="./assets/icons/HTML5.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="./assets/icons/CSS3.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
-  <img src="./assets/icons/Javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./assets/icons/Javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="./assets/icons/Typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org/"><img src="./assets/icons/NodeJS.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
   <a href="https://react.dev/"><img src="./assets/icons/ReactJS.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
@@ -55,9 +55,9 @@ Let's connect!
 
 #### DevOps
 <div>
-    <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
-    <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
-    <a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
+    <a href="https://git-scm.com/"><img src="./assets/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+    <a href="https://github.com/"><img src="./assets/icons/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
+    <a href="https://gitlab.com/"><img src="./assets/icons/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
     <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
     <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
