@@ -55,7 +55,7 @@ Let's connect!
 
 #### DevOps
 <div>
-    <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+    <a href="https://git-scm.com/"><img src="./assets/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
     <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
     <a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
