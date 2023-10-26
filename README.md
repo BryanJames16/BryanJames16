@@ -59,7 +59,7 @@ Let's connect!
     <a href="https://github.com/"><img src="./assets/icons/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
     <a href="https://gitlab.com/"><img src="./assets/icons/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
     <a href="https://www.docker.com/"><img src="./assets/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
-    <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
+    <a href="https://kubernetes.io/"><img src="./assets/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
     <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
     <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
     <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
