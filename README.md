@@ -58,11 +58,11 @@ Let's connect!
     <a href="https://git-scm.com/"><img src="./assets/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
     <a href="https://github.com/"><img src="./assets/icons/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
     <a href="https://gitlab.com/"><img src="./assets/icons/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
-    <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
-    <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
-    <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
-    <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.docker.com/"><img src="./assets/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
+    <a href="https://kubernetes.io/"><img src="./assets/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
+    <a href="https://argoproj.github.io/cd/"><img src="./assets/icons/Argo.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
+    <a href="https://grafana.com/"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
+    <a href="https://prometheus.io/"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
     <a href="https://opentelemetry.io/"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
     <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
     <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
