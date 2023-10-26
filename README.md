@@ -56,6 +56,7 @@ Let's connect!
 #### DevOps
 <div>
     <a href="https://git-scm.com/"><img src="./assets/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+    <a href="https://github.com/"><img src="./assets/icons/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
     <a href="https://gitlab.com/"><img src="./assets/icons/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
     <a href="https://www.docker.com/"><img src="./assets/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
     <a href="https://kubernetes.io/"><img src="./assets/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
