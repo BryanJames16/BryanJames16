@@ -13,7 +13,7 @@ Let's connect!
 <!-- Profile Badges -->
 <div id="profile-badges" align="center">
   <a href="https://www.linkedin.com/in/bryan-james-ilaga-4b1b478b/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/BryanJames16/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" title="GitHub" alt="GitHub" /></a>&nbsp;
+  <a href="https://github.com/BryanJames16/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=623697&logo=GitHub&logoColor=FFFFFF&label=" title="GitHub" alt="GitHub" /></a>&nbsp;
   <a href="https://www.credly.com/users/bryan-james-ilaga/badges"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=" title="Credly" alt="Credly" /></a>
 </div>
 
