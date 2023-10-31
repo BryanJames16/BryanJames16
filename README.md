@@ -85,9 +85,9 @@ Let's connect!
 
 #### Miscellaneous
 <div>
-  <a href="https://www.microsoft.com/en-ph/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/torvalds/linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" title="RedHat" alt="RedHat" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.microsoft.com/en-ph/windows"><img src="./assets/icons/Windows.svg" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/torvalds/linux"><img src="./assets/icons/Linux.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="./assets/icons/RedHat.svg" title="RedHat" alt="RedHat" width="40" height="40" /></a>&nbsp;
   <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40" /></a>&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
