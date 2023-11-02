@@ -55,32 +55,32 @@ Let's connect!
 
 #### DevOps
 <div>
-    <a href="https://git-scm.com/"><img src="./assets/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
-    <a href="https://github.com/"><img src="./assets/icons/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
-    <a href="https://gitlab.com/"><img src="./assets/icons/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.docker.com/"><img src="./assets/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
-    <a href="https://kubernetes.io/"><img src="./assets/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
-    <a href="https://argoproj.github.io/cd/"><img src="./assets/icons/Argo.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
-    <a href="https://grafana.com/"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
-    <a href="https://prometheus.io/"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
-    <a href="https://opentelemetry.io/"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.selenium.dev/"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.atlassian.com/software/confluence"><img src="./assets/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="./assets/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/"><img src="./assets/icons/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
+  <a href="https://gitlab.com/"><img src="./assets/icons/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="./assets/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
+  <a href="https://kubernetes.io/"><img src="./assets/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
+  <a href="https://argoproj.github.io/cd/"><img src="./assets/icons/Argo.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
+  <a href="https://grafana.com/"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
+  <a href="https://prometheus.io/"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
+  <a href="https://opentelemetry.io/"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.selenium.dev/"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.atlassian.com/software/confluence"><img src="./assets/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Cloud
 <div>
-    <a href="https://aws.amazon.com/"><img src="./assets/icons/AWS.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/></a>&nbsp;
-    <a href="https://cloud.google.com/"><img src="./assets/icons/GCP.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/></a>&nbsp;
+  <a href="https://aws.amazon.com/"><img src="./assets/icons/AWS.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/></a>&nbsp;
+  <a href="https://cloud.google.com/"><img src="./assets/icons/GCP.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Data
 <div>
-    <a href="https://www.mysql.com/"><img src="./assets/icons/MySQL.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.sqlite.org"><img src="./assets/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
-    <a href="https://jupyter.org/hub"><img src="./assets/icons/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.r-project.org/"><img src="./assets/icons/RStudio.svg" title="RStudio" alt="RStudio" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="./assets/icons/MySQL.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.sqlite.org"><img src="./assets/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
+  <a href="https://jupyter.org/hub"><img src="./assets/icons/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.r-project.org/"><img src="./assets/icons/RStudio.svg" title="RStudio" alt="RStudio" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Miscellaneous
