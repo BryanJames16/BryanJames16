@@ -136,11 +136,6 @@ Skills to be added:
 - Markdown
 - SQL Server
 
-Skills to be learned:
-- Rust
-- NextJS
-- Terraform
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
