@@ -20,7 +20,7 @@ Let's connect!
 ---
 
 - 🔭 I’m currently working on **personal** and **open-source projects**
-- 🌱 I’m currently learning **Next.js, React, Terraform, Cloud, and Web-Sockets**
+- 🌱 I’m currently learning **Rust, Next.js, React, Terraform, Cloud, and Web-Sockets**
 - 😄 Pronouns: He / Him / His
 
 ---
@@ -91,7 +91,6 @@ Let's connect!
   <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40" /></a>&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" title="DevIcon" alt="DevIcon" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
@@ -136,11 +135,6 @@ Skills to be added:
 - Bugzilla
 - Markdown
 - SQL Server
-
-Skills to be learned:
-- Rust
-- NextJS
-- Terraform
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
