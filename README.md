@@ -135,6 +135,13 @@ Skills to be added:
 - Bugzilla
 - Markdown
 - SQL Server
+- AppDynamics
+- Splunk
+- Rust
+
+To add:
+- ASCII Art
+- README Jokes
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
