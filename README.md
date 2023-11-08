@@ -130,7 +130,6 @@ Skills to be added:
 - BitBucket
 - C++
 - C#
-- Firefox
 - .Net
 - Bugzilla
 - Markdown
