@@ -163,7 +163,6 @@ Skills to be added:
 - SQL Server
 - AppDynamics
 - Splunk
-- Rust
 -->
 
 <!-- 
