@@ -1,12 +1,15 @@
+<!--
+**BryanJames16/BryanJames16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 ### Hi There 👋 Welcome!
 
 ### 👨‍💻 About Me
 
 Hi! ✋ My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer 💻.
 
-With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 🔭.
+With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 📡.
 
-Aside from what's mentioned above, reading 📖, mediation 🙏, coding 👨‍💻, and travel ✈ are my favorite hobbies. I really love long train rides 🚂.
+Aside from what's mentioned above, mediation 🙏, reading 📖, coding 👨‍💻, and travel ✈ are my favorite hobbies. I really love long train rides 🚂.
 
 Let's connect!
 
@@ -99,21 +102,39 @@ Let's connect!
 
 <details>
   <summary><b>💹 Stats</b></summary>
-<br />
+  <br />
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=BryanJames16&label=Profile%20Visits&color=blue&style=for-the-badge)
+[![Visitor Counter](https://komarev.com/ghpvc/?username=BryanJames16&label=Profile%20Visits&color=blue&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJames16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark&no-bg=true&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
-<!--
-**BryanJames16/BryanJames16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+<!-- Added necessary comments -->
+<code align="center" style="white-space:normal;">
+
+████████╗██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗
+╚══██╔══╝██║░░██║██╔══██╗████╗░██║██║░██╔╝
+░░░██║░░░███████║███████║██╔██╗██║█████═╝░
+░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░
+░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗
+░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
+
+░░░░░░██╗░░░██╗░█████╗░██╗░░░██╗██╗░░░░░░░
+░░░░░░╚██╗░██╔╝██╔══██╗██║░░░██║██║░░░░░░░
+░░░░░░░╚████╔╝░██║░░██║██║░░░██║██║░░░░░░░
+░░░░░░░░╚██╔╝░░██║░░██║██║░░░██║╚═╝░░░░░░░
+░░░░░░░░░██║░░░╚█████╔╝╚██████╔╝██╗░░░░░░░
+░░░░░░░░░╚═╝░░░░╚════╝░░╚═════╝░╚═╝░░░░░░░
+
+</code>
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -131,7 +152,6 @@ Skills to be added:
 - Bash
 - BitBucket
 - C++
-- C#
 - .Net
 - Bugzilla
 - Markdown
@@ -141,15 +161,15 @@ Skills to be added:
 - Rust
 
 To add:
-- ASCII Art
 - README Jokes
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+
+░██████╗░░█████╗░░█████╗░██████╗░  ██╗░░░░░██╗░░░██╗░█████╗░██╗░░██╗██╗
+██╔════╝░██╔══██╗██╔══██╗██╔══██╗  ██║░░░░░██║░░░██║██╔══██╗██║░██╔╝██║
+██║░░██╗░██║░░██║██║░░██║██║░░██║  ██║░░░░░██║░░░██║██║░░╚═╝█████═╝░██║
+██║░░╚██╗██║░░██║██║░░██║██║░░██║  ██║░░░░░██║░░░██║██║░░██╗██╔═██╗░╚═╝
+╚██████╔╝╚█████╔╝╚█████╔╝██████╔╝  ███████╗╚██████╔╝╚█████╔╝██║░╚██╗██╗
+░╚═════╝░░╚════╝░░╚════╝░╚═════╝░  ╚══════╝░╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝
 -->
