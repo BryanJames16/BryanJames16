@@ -96,7 +96,7 @@ Let's connect!
   <a href="https://www.npmjs.com/"><img src="./assets/icons/NPM.svg" title="NPM" alt="NPM" width="40" height="40" /></a>&nbsp;
   <a href="https://code.visualstudio.com"><img src="./assets/icons/VSCode.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html"><img src="./assets/icons/Photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
-  <img src="./assets/icons/Firefox.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
+  <a href="https://www.mozilla.org/en-US/firefox"><img src="./assets/icons/Firefox.svg" title="Firefox" alt="Firefox" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
@@ -156,9 +156,7 @@ Here are some ideas to get you started:
 <!--
 Skills to be added:
 - Bash
-- BitBucket
 - C++
-- .Net
 - Bugzilla
 - Markdown
 - SQL Server
