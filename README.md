@@ -78,10 +78,10 @@ Let's connect!
 
 #### Data
 <div>
-  <a href="https://www.mysql.com/"><img src="./assets/icons/MySQL.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mysql.com"><img src="./assets/icons/MySQL.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.sqlite.org"><img src="./assets/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/hub"><img src="./assets/icons/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.r-project.org/"><img src="./assets/icons/RStudio.svg" title="RStudio" alt="RStudio" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.r-project.org"><img src="./assets/icons/RStudio.svg" title="RStudio" alt="RStudio" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Miscellaneous
