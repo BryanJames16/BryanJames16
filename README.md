@@ -90,7 +90,7 @@ Let's connect!
   <a href="https://github.com/torvalds/linux"><img src="./assets/icons/Linux.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="./assets/icons/RedHat.svg" title="RedHat" alt="RedHat" width="40" height="40" /></a>&nbsp;
   <a href="https://www.npmjs.com/"><img src="./assets/icons/NPM.svg" title="NPM" alt="NPM" width="40" height="40" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="./assets/icons/VSCode.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
+  <a href="https://code.visualstudio.com"><img src="./assets/icons/VSCode.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html"><img src="./assets/icons/Photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
   <img src="./assets/icons/Firefox.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
 </div>
