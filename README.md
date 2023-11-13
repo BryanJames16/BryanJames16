@@ -4,7 +4,7 @@
 
 Hi! ✋ My name is **Bryan James** from Rizal, Philippines. Currently working at Globe Telecom, Inc. as a Platform Engineer 💻.
 
-With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 🔭.
+With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 📡.
 
 Aside from what's mentioned above, reading 📖, mediation 🙏, coding 👨‍💻, and travel ✈ are my favorite hobbies. I really love long train rides 🚂.
 
@@ -131,7 +131,6 @@ Skills to be added:
 - Bash
 - BitBucket
 - C++
-- C#
 - .Net
 - Bugzilla
 - Markdown
@@ -144,7 +143,6 @@ To add:
 - ASCII Art
 - README Jokes
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
