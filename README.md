@@ -6,7 +6,7 @@ Hi! ✋ My name is **Bryan James** from Rizal, Philippines. Currently working at
 
 With 5 years in tech field and leader in IT operations, I often find myself in communities 🏢, blog posts 📜, and tech forums 💻 continuously burning my enthusiasm with new and relevant technologies! I am passionate with anything about technology, especially with anything regarding cloud native ☁, DevOps 🚢, and observability 📡.
 
-Aside from what's mentioned above, reading 📖, mediation 🙏, coding 👨‍💻, and travel ✈ are my favorite hobbies. I really love long train rides 🚂.
+Aside from what's mentioned above, mediation 🙏, reading 📖, coding 👨‍💻, and travel ✈ are my favorite hobbies. I really love long train rides 🚂.
 
 Let's connect!
 
