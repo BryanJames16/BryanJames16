@@ -110,8 +110,7 @@ Let's connect!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJames16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark&no-bg=true&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 ---
@@ -162,7 +161,6 @@ Skills to be added:
 - Rust
 
 To add:
-- ASCII Art
 - README Jokes
 -->
 
