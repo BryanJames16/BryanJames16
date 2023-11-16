@@ -165,9 +165,6 @@ Skills to be added:
 - AppDynamics
 - Splunk
 - Rust
-
-To add:
-- README Jokes
 -->
 
 <!-- 
