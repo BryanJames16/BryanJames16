@@ -118,7 +118,7 @@ Let's connect!
   <summary><b>📦 More</b></summary>
   <br />
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&borderColor=00FFFFFF)
+[![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&borderColor=00FFFFFF)](https://github.com/ABSphreak/readme-jokes)
 </details>
 
 ---
