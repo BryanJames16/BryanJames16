@@ -71,6 +71,7 @@ Let's connect!
   <a href="https://www.selenium.dev"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/confluence"><img src="./assets/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.atlassian.com/software/bitbucket"><img src="./assets/icons/BitBucket.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Cloud
