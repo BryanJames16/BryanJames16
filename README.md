@@ -156,9 +156,7 @@ Here are some ideas to get you started:
 <!--
 Skills to be added:
 - Bash
-- BitBucket
 - C++
-- .Net
 - Bugzilla
 - Markdown
 - SQL Server
