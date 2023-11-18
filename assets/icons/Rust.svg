@@ -1,8 +1,7 @@
 <svg height="144" width="144" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="RustOrange" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="50%" style="stop-color:rgb(74, 71, 69);
-      stop-opacity:1" />
+      <stop offset="50%" style="stop-color:rgb(74, 71, 69);stop-opacity:1" />
       <stop offset="100%" style="stop-color:rgb(139, 72, 36);stop-opacity:1" />
     </radialGradient>
   </defs>
