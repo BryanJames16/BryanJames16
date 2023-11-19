@@ -46,7 +46,7 @@ Let's connect!
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/icons/CSharp.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com"><img src="./assets/icons/Java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org"><img src="./assets/icons/Python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <img src="./assets/icons/Rust.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <a href="https://www.rust-lang.org"><img src="./assets/icons/Rust.svg" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com"><img src="./assets/icons/Laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML5"><img src="./assets/icons/HTML5.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="./assets/icons/CSS3.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
