@@ -43,6 +43,7 @@ Let's connect!
 <div>
   <a href="https://dotnet.microsoft.com"><img src="./assets/icons/Dotnet.svg" title="DotNet" alt="DotNet" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./assets/icons/C.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+  <a href="https://cplusplus.com"><img src="./assets/icons/CPlusPlus.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/icons/CSharp.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com"><img src="./assets/icons/Java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org"><img src="./assets/icons/Python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
@@ -70,6 +71,7 @@ Let's connect!
   <a href="https://prometheus.io"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
   <a href="https://opentelemetry.io"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
   <a href="https://www.selenium.dev"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.bugzilla.org"><img src="./assets/icons/Bugzilla.svg" title="Bugzilla" alt="Bugzilla" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/confluence"><img src="./assets/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/bitbucket"><img src="./assets/icons/BitBucket.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/></a>&nbsp;
@@ -132,7 +134,6 @@ Let's connect!
 ░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░
 ░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
-
 ░░░░░░██╗░░░██╗░█████╗░██╗░░░██╗██╗░░░░░░░
 ░░░░░░╚██╗░██╔╝██╔══██╗██║░░░██║██║░░░░░░░
 ░░░░░░░╚████╔╝░██║░░██║██║░░░██║██║░░░░░░░
@@ -157,8 +158,6 @@ Here are some ideas to get you started:
 <!--
 Skills to be added:
 - Bash
-- C++
-- Bugzilla
 - Markdown
 - SQL Server
 - AppDynamics
