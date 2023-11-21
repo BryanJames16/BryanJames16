@@ -160,7 +160,6 @@ Here are some ideas to get you started:
 
 <!--
 Skills to be added:
-- SQL Server
 - AppDynamics
 - Splunk
 -->
