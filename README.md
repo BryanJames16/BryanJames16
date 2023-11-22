@@ -159,7 +159,6 @@ Here are some ideas to get you started:
 
 <!--
 Skills to be added:
-- Markdown
 - SQL Server
 - AppDynamics
 - Splunk
