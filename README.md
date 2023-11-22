@@ -158,7 +158,6 @@ Here are some ideas to get you started:
 
 <!--
 Skills to be added:
-- Bash
 - Markdown
 - SQL Server
 - AppDynamics
