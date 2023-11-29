@@ -157,6 +157,10 @@ Here are some ideas to get you started:
 -->
 
 <!--
+Icons to be fixed: 
+- Bugzilla 
+- Bash
+
 Skills to be added:
 - AppDynamics
 - Splunk
