@@ -67,6 +67,7 @@ Let's connect!
   <a href="https://www.docker.com"><img src="./assets/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://kubernetes.io"><img src="./assets/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
   <a href="https://argoproj.github.io/cd"><img src="./assets/icons/Argo.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
+  <img src="./assets/icons/AppDynamics.svg" title="AppDynamics" alt="AppDynamics"/>&nbsp;
   <a href="https://grafana.com"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
   <a href="https://prometheus.io"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
   <a href="https://opentelemetry.io"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
