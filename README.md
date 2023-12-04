@@ -163,7 +163,6 @@ Icons to be fixed:
 - Bash
 
 Skills to be added:
-- AppDynamics
 - Splunk
 -->
 
