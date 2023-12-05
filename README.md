@@ -164,6 +164,7 @@ Icons to be fixed:
 
 Skills to be added:
 - Splunk
+- NextJS
 -->
 
 <!-- 
