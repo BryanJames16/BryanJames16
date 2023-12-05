@@ -160,10 +160,10 @@ Here are some ideas to get you started:
 <!--
 Icons to be fixed: 
 - Bugzilla 
+- NextJS
 
 Skills to be added:
 - Splunk
-- NextJS
 -->
 
 <!-- 
