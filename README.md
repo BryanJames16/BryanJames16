@@ -102,7 +102,7 @@ Let's connect!
   <a href="https://www.npmjs.com/"><img src="./assets/icons/NPM.svg" title="NPM" alt="NPM" width="40" height="40" /></a>&nbsp;
   <a href="https://code.visualstudio.com"><img src="./assets/icons/VSCode.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html"><img src="./assets/icons/Photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
-  <img src="./assets/icons/DarkTable.svg" title="DarkTable" alt="DarkTable" width="40" height="40"/>
+  <a href="https://www.darktable.org"><img src="./assets/icons/DarkTable.svg" title="DarkTable" alt="DarkTable" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mozilla.org/en-US/firefox"><img src="./assets/icons/Firefox.svg" title="Firefox" alt="Firefox" width="40" height="40"/></a>&nbsp;
   <a href="https://www.google.com/intl/en_ph/chrome/"><img src="./assets/icons/Chrome.svg" title="Firefox" alt="Chrome" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./assets/icons/Bash.svg" title="Bash" alt="Bash" width="40" height="40"/></a>&nbsp;
