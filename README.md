@@ -117,7 +117,7 @@ Let's connect!
 
 [![Visitor Counter](https://komarev.com/ghpvc/?username=BryanJames16&label=Profile%20Visits&color=blue&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJames16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJames16&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark&no-bg=true&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
@@ -148,22 +148,8 @@ Let's connect!
 ```
 
 <!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
 Icons to be fixed: 
 - Bugzilla 
-- NextJS
 
 Skills to be added:
 - Splunk
