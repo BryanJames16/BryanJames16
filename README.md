@@ -88,7 +88,7 @@ Let's connect!
 #### Data
 <div>
   <a href="https://www.mysql.com"><img src="./assets/icons/MySQL.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="./assets/icons/SQLServer.svg" title="SQL Server" alt="MS SQL Server" width="40" height="40"/></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="./assets/icons/SQLServer.svg" title="SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>&nbsp;
   <a href="https://www.sqlite.org"><img src="./assets/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/hub"><img src="./assets/icons/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
   <a href="https://www.r-project.org"><img src="./assets/icons/RStudio.svg" title="RStudio" alt="RStudio" width="40" height="40"/></a>&nbsp;
@@ -104,7 +104,7 @@ Let's connect!
   <a href="https://www.adobe.com/products/photoshop.html"><img src="./assets/icons/Photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
   <a href="https://www.darktable.org"><img src="./assets/icons/DarkTable.svg" title="DarkTable" alt="DarkTable" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mozilla.org/en-US/firefox"><img src="./assets/icons/Firefox.svg" title="Firefox" alt="Firefox" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.google.com/intl/en_ph/chrome/"><img src="./assets/icons/Chrome.svg" title="Firefox" alt="Chrome" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.google.com/intl/en_ph/chrome/"><img src="./assets/icons/Chrome.svg" title="Chrome" alt="Chrome" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./assets/icons/Bash.svg" title="Bash" alt="Bash" width="40" height="40"/></a>&nbsp;
   <a href="https://www.markdownguide.org"><img src="./assets/icons/Markdown.svg" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;
 </div>
