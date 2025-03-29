@@ -149,7 +149,7 @@ Let's connect!
 
 <!--
 Icons to be fixed: 
-- Bugzilla 
+- None 
 
 Skills to be added:
 - Splunk
