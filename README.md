@@ -23,7 +23,7 @@ Let's connect!
 ---
 
 - 🔭 I’m currently working on **personal** and **open-source projects**
-- 🌱 I’m currently learning **Rust, Next.js, React, Terraform, Cloud, and Web-Sockets**
+- 🌱 I’m currently learning **Rust, React, OpenTofu / Terraform, Cloud, and Web-Sockets**
 - 😄 Pronouns: He / Him / His
 
 ---
@@ -42,7 +42,6 @@ Let's connect!
 #### Full Stack Development
 <div>
   <a href="https://dotnet.microsoft.com"><img src="./assets/icons/Dotnet.svg" title="DotNet" alt="DotNet" width="40" height="40"/></a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./assets/icons/C.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
   <a href="https://cplusplus.com"><img src="./assets/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/icons/CSharp.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com"><img src="./assets/icons/Java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
@@ -57,6 +56,7 @@ Let's connect!
   <a href="https://react.dev"><img src="./assets/icons/ReactJS.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href="https://jquery.com"><img src="./assets/icons/JQuery.svg" title="JQuery" alt="JQuery" width="40" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com"><img src="./assets/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.selenium.dev"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### DevOps
@@ -72,7 +72,6 @@ Let's connect!
   <a href="https://grafana.com"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
   <a href="https://prometheus.io"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
   <a href="https://opentelemetry.io"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.selenium.dev"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
   <a href="https://www.bugzilla.org"><img src="./assets/icons/Bugzilla.svg" title="Bugzilla" alt="Bugzilla" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/confluence"><img src="./assets/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/></a>&nbsp;
@@ -91,7 +90,6 @@ Let's connect!
   <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="./assets/icons/SQLServer.svg" title="SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>&nbsp;
   <a href="https://www.sqlite.org"><img src="./assets/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/hub"><img src="./assets/icons/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.r-project.org"><img src="./assets/icons/RStudio.svg" title="RStudio" alt="RStudio" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Miscellaneous
