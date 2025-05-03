@@ -66,7 +66,7 @@ Let's connect!
   <a href="https://gitlab.com"><img src="./assets/icons/GitLab.svg" title="GitLab" alt="GitLab" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com"><img src="./assets/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://kubernetes.io"><img src="./assets/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.terraform.io/"><img src="./assets/icons/Terraform.svg" title="Terraform / OpenTofu" alt="Terraform / OpenTofu" width="40" height="40"/></a>&nbsp;
+  <a href="https://opentofu.org/"><img src="./assets/icons/OpenTofu.svg" title="OpenTofu / Terraform" alt="OpenTofu / Terraform" width="40" height="40"/></a>&nbsp;
   <a href="https://argoproj.github.io/cd"><img src="./assets/icons/Argo.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
   <a href="https://www.appdynamics.com"><img src="./assets/icons/AppDynamics.svg" title="AppDynamics" alt="AppDynamics" width="40" height="40" /></a>&nbsp;
   <a href="https://grafana.com"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
