@@ -23,7 +23,7 @@ Let's connect!
 ---
 
 - 🔭 I’m currently working on **personal** and **open-source projects**
-- 🌱 I’m currently learning **Rust, React, OpenTofu / Terraform, Cloud, and Web-Sockets**
+- 🌱 I’m currently learning **Rust, React, Cloud, and AI**
 - 😄 Pronouns: He / Him / His
 
 ---
