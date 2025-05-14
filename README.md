@@ -150,7 +150,7 @@ Icons to be fixed:
 - None 
 
 Skills to be added:
-- Splunk
+- None
 -->
 
 <!-- 
