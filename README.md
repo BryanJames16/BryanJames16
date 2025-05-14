@@ -69,6 +69,7 @@ Let's connect!
   <a href="https://opentofu.org/"><img src="./assets/icons/OpenTofu.svg" title="OpenTofu / Terraform" alt="OpenTofu / Terraform" width="40" height="40"/></a>&nbsp;
   <a href="https://argoproj.github.io/cd"><img src="./assets/icons/Argo.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/></a>&nbsp;
   <a href="https://www.appdynamics.com"><img src="./assets/icons/AppDynamics.svg" title="AppDynamics" alt="AppDynamics" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.splunk.com/"><img src="./assets/icons/Splunk.svg" title="Splunk" alt="Splunk" width="40" height="40" /></a>&nbsp;
   <a href="https://grafana.com"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
   <a href="https://prometheus.io"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
   <a href="https://opentelemetry.io"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
