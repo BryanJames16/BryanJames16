@@ -97,7 +97,6 @@ Let's connect!
 <div>
   <a href="https://www.microsoft.com/en-ph/windows"><img src="./assets/icons/Windows11.svg" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/torvalds/linux"><img src="./assets/icons/Linux.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="./assets/icons/RedHat.svg" title="RedHat" alt="RedHat" width="40" height="40" /></a>&nbsp;
   <a href="https://code.visualstudio.com"><img src="./assets/icons/VSCode.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html"><img src="./assets/icons/Photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
   <a href="https://www.darktable.org"><img src="./assets/icons/DarkTable.svg" title="DarkTable" alt="DarkTable" width="40" height="40"/></a>&nbsp;
