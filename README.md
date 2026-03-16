@@ -85,12 +85,13 @@ Let's connect!
   <a href="https://cloud.google.com"><img src="./assets/icons/GCP.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/></a>&nbsp;
 </div>
 
-#### Data
+#### Data and AI
 <div>
   <a href="https://www.mysql.com"><img src="./assets/icons/MySQL.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="./assets/icons/SQLServer.svg" title="SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>&nbsp;
   <a href="https://www.sqlite.org"><img src="./assets/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/hub"><img src="./assets/icons/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
+  <a href="https://chatgpt.com/"><img src="./assets/icons/ChatGPT.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Miscellaneous
