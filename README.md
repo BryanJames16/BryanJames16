@@ -92,6 +92,7 @@ Let's connect!
   <a href="https://www.sqlite.org"><img src="./assets/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/hub"><img src="./assets/icons/Jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
   <a href="https://chatgpt.com/"><img src="./assets/icons/ChatGPT.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/></a>&nbsp;
+  <a href="https://gemini.google.com/"><img src="./assets/icons/Gemini.svg" title="Google Gemini" alt="Google Gemini" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Miscellaneous
