@@ -15,7 +15,7 @@ Let's connect!
 
 <!-- Profile Badges -->
 <div id="profile-badges" align="center">
-  <a href="https://www.linkedin.com/in/bryan-james-ilaga-4b1b478b/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=FFFFFF" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/bryan-james-ilaga/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=FFFFFF" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/BryanJames16/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=623697&logo=GitHub&logoColor=FFFFFF&label=" title="GitHub" alt="GitHub" /></a>&nbsp;
   <a href="https://www.credly.com/users/bryan-james-ilaga/badges"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Credly&color=FF6B00&logo=Credly&logoColor=FFFFFF&label=" title="Credly" alt="Credly" /></a>
 </div>
@@ -23,7 +23,7 @@ Let's connect!
 ---
 
 - 🔭 I’m currently working on **personal** and **open-source projects**
-- 🌱 I’m currently learning **Rust, React, Cloud, and AI**
+- 🌱 I’m currently learning **Cloud and AI**
 - 😄 Pronouns: He / Him / His
 
 ---
