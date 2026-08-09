@@ -57,6 +57,7 @@ Let's connect!
   <a href="https://jquery.com"><img src="./assets/icons/JQuery.svg" title="JQuery" alt="JQuery" width="40" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com"><img src="./assets/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
   <a href="https://www.selenium.dev"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
+  <a href="https://playwright.dev/"><img src="./assets/icons/Playwright.svg" title="Playwright" alt="Playwright" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### DevOps
