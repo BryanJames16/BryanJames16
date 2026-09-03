@@ -120,7 +120,7 @@ Let's connect!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BryanJames16&layout=compact&theme=nightowl&hide_border=false)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BryanJames16&rank_icon=github&show_icons=true&include_all_commits=true&theme=react)](https://github-stats-extended.vercel.app/api?username=BryanJames16&rank_icon=github&show_icons=true&include_all_commits=true&theme=react)
 
 [![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=BryanJames16&theme=onedark&no-bg=true&column=4&row=2)](https://trophygithubreadmelang.cybee.dpdns.org)
 </details>
