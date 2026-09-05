@@ -57,7 +57,6 @@ Let's connect!
   <a href="https://jquery.com"><img src="./assets/icons/JQuery.svg" title="JQuery" alt="JQuery" width="40" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com"><img src="./assets/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
   <a href="https://www.selenium.dev"><img src="./assets/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
-  <a href="https://playwright.dev/"><img src="./assets/icons/Playwright.svg" title="Playwright" alt="Playwright" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### DevOps
@@ -78,6 +77,7 @@ Let's connect!
   <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/confluence"><img src="./assets/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/bitbucket"><img src="./assets/icons/BitBucket.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/></a>&nbsp;
+  <a href="https://playwright.dev/"><img src="./assets/icons/Playwright.svg" title="Playwright" alt="Playwright" width="40" height="40"/></a>&nbsp;
 </div>
 
 #### Cloud
@@ -118,9 +118,11 @@ Let's connect!
 
 [![Visitor Counter](https://komarev.com/ghpvc/?username=BryanJames16&label=Profile%20Visits&color=blue&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJames16&layout=compact&theme=nightowl&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BryanJames16&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BryanJames16&theme=onedark&no-bg=true&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BryanJames16&layout=compact&theme=nightowl&hide_border=false)](https://github.com/stats-organization/github-stats-extended)
+
+[![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=BryanJames16&theme=onedark&no-bg=true&column=4&row=2)](https://trophygithubreadmelang.cybee.dpdns.org)
 </details>
 
 <details>
