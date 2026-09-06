@@ -74,6 +74,7 @@ Let's connect!
   <a href="https://grafana.com"><img src="./assets/icons/Grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/></a>&nbsp;
   <a href="https://prometheus.io"><img src="./assets/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/></a>&nbsp;
   <a href="https://opentelemetry.io"><img src="./assets/icons/OpenTelemetry.svg" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.dynatrace.com"><img src="./assets/icons/Dynatrace.svg" title="Dynatrace" alt="Dynatrace" width="40" height="40"/></a>&nbsp;
   <a href="https://www.bugzilla.org"><img src="./assets/icons/Bugzilla.svg" title="Bugzilla" alt="Bugzilla" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/jira"><img src="./assets/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>&nbsp;
   <a href="https://www.atlassian.com/software/confluence"><img src="./assets/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/></a>&nbsp;
